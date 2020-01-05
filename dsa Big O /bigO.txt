@@ -1,0 +1,13 @@
+1a) O(1)
+1b) Linear
+2) Linear
+3) Quadratic
+4) Linear
+5) Linear
+6) Quadratic
+7) Fibonacci Sequence, Linear
+8) Logarithimic
+9) Constant
+10) Exponential
+11) 
+
